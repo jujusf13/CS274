@@ -1,0 +1,10 @@
+
+(base) julianfaust@Julians-MacBook-Air lab1 % iverilog -o combo_tb.vvp combo_tb.v
+(base) julianfaust@Julians-MacBook-Air lab1 % vvp combo_tb.vvp
+
+//finish other stuff from here now that combo_tb.vvp has been created
+
+
+
+//THIS code simulates what is happening in the test bench. There is no
+//output
